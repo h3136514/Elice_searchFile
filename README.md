@@ -12,10 +12,13 @@
 
 ## <실행방법>
 1. 실행파일 => dist 폴더에 들어가면 아래 사진과 같은 파일들이 있을 것이다. 파일을 실행하기전 먼저 init.txt파일을 열어본다.
+
 ![4](https://github.com/user-attachments/assets/b5a8d49f-a974-4a07-b40d-d3f98be02509)
+
 2. 검색 단어 부분엔 검색할 파일 이름을 입력하고 기존 폴더 경로와 옮길 폴더 경로에는 말 그대로 취합해야 할 자료들의 제일 상위 폴더와 파일들이 저장될 폴더의 위치를 입력하면 된다.
 <br>(*주의사항 : 보이는 예시와 같이 입력해주고 띄어쓰기하고 공백에 주의해서 입력해야한다.*)
 ![3](https://github.com/user-attachments/assets/4a3814af-ea0f-4793-9628-473c2f19b725)
+
 3. 이제 searchFile.exe를 실행하면 콘솔에 옮겨진 파일의 이름이 출력되고 아까 입력해둔 옮길 폴더 경로에 이동해보면 해당 파일들이 저장된걸 확인할 수 있다.
    
 ![5](https://github.com/user-attachments/assets/fb2e05ca-263c-41bf-963b-7ac652804043)
